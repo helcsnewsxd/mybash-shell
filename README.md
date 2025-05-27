@@ -1,3 +1,9 @@
+> [!note]
+> This repository contains the first Operating Systems lab project from the Computer Science degree at FaMAF (UNC, Argentina).  
+> The project consists of building a UNIX-style shell in C, called **MyBash**.  
+> The full report and README are written in Spanish, as they reflect the original academic submission.  
+> Authors: Lautaro Bachmann, Juan Bratti, Gonzalo Canavesio, Emanuel Nicolás Herrador.
+
 # **Laboratorio número 1 de Sistemas Operativos 2022 - Grupo 12 | FaMAF UNC**
 
 ## **Integrantes del grupo:**
